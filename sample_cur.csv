@@ -1,0 +1,9 @@
+date,service,region,resource_id,usage_type,cost
+2026-04-13,Amazon S3,ap-south-1,bucket-logs,TimedStorage,12
+2026-04-13,Amazon EC2,ap-south-1,i-0x1001,BoxUsage:m5.large,18
+2026-04-14,Amazon S3,ap-south-1,bucket-logs,TimedStorage,11
+2026-04-14,Amazon EC2,ap-south-1,i-0x1001,BoxUsage:m5.large,19
+2026-04-15,Amazon S3,ap-south-1,bucket-logs,TimedStorage,16
+2026-04-15,Amazon EC2,ap-south-1,i-0x9345,BoxUsage:c6i.2xlarge,95
+2026-04-15,Amazon EC2,ap-south-1,i-0x9345,DataTransfer-Out-Bytes,22
+2026-04-15,Amazon RDS,ap-south-1,db-prod-1,InstanceUsage:db.t3.medium,9
